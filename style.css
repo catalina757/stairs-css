@@ -1,0 +1,35 @@
+* {
+    margin:0;
+    background:#191919;
+    height: 100vh;
+    font-size: 0.625rem;
+}
+
+dl {
+    width: 10rem;
+    height: 15rem;
+    border-top-left-radius: 7rem;
+    border-top-right-radius: 7rem;
+    background:#4F77FF;
+}
+
+dt {
+    width: 8rem;
+    height: 2rem;
+    position: relative;
+    top:5.8rem;
+    left:2rem;
+    margin: 4px 0 0 0;
+}
+
+dt:nth-child(1) {
+    margin-left:6rem;
+}
+
+dt:nth-child(2) {
+    margin-left:4rem;
+}
+
+dt:nth-child(3) {
+    margin-left:2rem;
+}
